@@ -1,0 +1,25 @@
+insert into jan2013 select
+	medallion,
+	hack_license,
+	VendorID,
+	rate_code,
+	store_and_fwd_flag,
+	pu_time,
+	do_time,
+	pass_count,
+	duration,
+	dist,
+	pu_lon,
+	pu_lat,
+	do_lon,
+	do_lat,
+	payment_type,
+	fare_amount,
+	surcharge,
+	mta_tax,
+	tip_amount,
+	tolls_amount,
+	tot_amount,
+	avg_speed
+	
+	from jan13;
