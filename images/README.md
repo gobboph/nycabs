@@ -6,4 +6,4 @@ I chose two different cutoff for the waiting time after which I would declare th
 
 It would be nice instead to retrive the locations where the taxis stay parked and exclude the taxis that are in those locations, but I doubt the result would be much different.
 
-Also, one could study how the situation change and maybe I should develop a web app where this parameter can be tuned.
+Also, one could study how the situation change with different cutoffs and it would be interesting to develop a web app where this parameter can be tuned.
